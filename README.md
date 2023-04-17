@@ -5,7 +5,7 @@ My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking pa
 
 
 
-![Picture of Lukas Weckner](https://user-images.githubusercontent.com/130902818/232498646-2cd797ac-6683-4020-b482-762271fe2c04.jpeg)
+<img src= "https://user-images.githubusercontent.com/130902818/232498646-2cd797ac-6683-4020-b482-762271fe2c04.jpeg" width=50%>
 
 ## Things I like about the bootcamp:
 1. Meeting and getting to know new people
