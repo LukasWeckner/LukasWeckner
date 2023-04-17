@@ -1,4 +1,5 @@
 # Hello and welcome to my new depository
+<br />
 
 ## About me:
 My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking part in a web development bootcamp. This is my first excercise to become more familiar with github as a version control tool.
