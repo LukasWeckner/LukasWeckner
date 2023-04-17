@@ -5,7 +5,7 @@ My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking pa
 
 
 
-![597f6c24-11c4-40d5-a788-a64762a5e48f](https://user-images.githubusercontent.com/130902818/232498646-2cd797ac-6683-4020-b482-762271fe2c04.jpeg)
+![Picture of Lukas Weckner](https://user-images.githubusercontent.com/130902818/232498646-2cd797ac-6683-4020-b482-762271fe2c04.jpeg)
 
 ## Things I like about the bootcamp:
 1. Meeting and getting to know new people
@@ -13,7 +13,10 @@ My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking pa
 3. Having a fixed schedule
 
 
-| Heading 1 | Heading 2 |
+Berufliche Laufbahn
+| Zeitrahmen | Job |
 | ----------- | ----------- |
-| Eintrag 1 | Eintrag 1 |
-| Eintrag 2 | Eintrag 2 |
+| 05.2021 - 03.2023 | Second Level Anwendungsberater |
+| 02.2021 - 04.2021 | Projektmitarbeiter Impfzentrum |
+| 08.2020 - 02.2021 | Werkstudent Prozessmanagement |
+
