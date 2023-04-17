@@ -11,3 +11,9 @@ My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking pa
 1. Meeting and getting to know new people
 2. Keep learning and improving
 3. Having a fixed schedule
+
+
+| Heading 1 | Heading 2 |
+| ----------- | ----------- |
+| Eintrag 1 | Eintrag 1 |
+| Eintrag 2 | Eintrag 2 |
