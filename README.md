@@ -15,9 +15,9 @@ My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking pa
 
 
 ## Career Path
-| Zeitrahmen | Job |
+| Dates of Employment | Job title |
 | ----------- | ----------- |
-| 05.2021 - 03.2023 | Second Level Anwendungsberater |
-| 02.2021 - 04.2021 | Projektmitarbeiter Impfzentrum |
-| 08.2020 - 02.2021 | Werkstudent Prozessmanagement |
+| May 2021 - Mar. 2023 | Second Level Application Consultant |
+| Feb. 2021 - Apr. 2021 | Project Staff Vaccination Center Hamburg |
+| Aug. 2020 - Feb.2021 | Working Student HR Process Management |
 
