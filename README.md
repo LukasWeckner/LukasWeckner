@@ -14,7 +14,7 @@ My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking pa
 3. Having a fixed schedule ⏰
 
 
-Berufliche Laufbahn
+## Career Path
 | Zeitrahmen | Job |
 | ----------- | ----------- |
 | 05.2021 - 03.2023 | Second Level Anwendungsberater |
