@@ -1,12 +1,9 @@
-# Hello and welcome to my new depository
+# Welcome to my github account! 🙂
 <br />
 
 ## About me:
-My name is Lukas and I'm an aspiring frontend developer. Right now I'm taking part in a web development bootcamp. This is my first excercise to become more familiar with github as a version control tool.
-
-
-
-<img src= "https://user-images.githubusercontent.com/130902818/232498646-2cd797ac-6683-4020-b482-762271fe2c04.jpeg" width=50%>
+My name is Lukas and I'm a frontend developer who enjoys continous learning and embracing new challenges.
+<img src= "https://user-images.githubusercontent.com/130902818/232498646-2cd797ac-6683-4020-b482-762271fe2c04.jpeg" width=40%>
 
 ## Things I like about the bootcamp:
 1. Meeting and getting to know new people 👫
