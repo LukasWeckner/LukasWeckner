@@ -3,6 +3,7 @@
 
 My name is Lukas and I'm a frontend developer who enjoys continous learning and embracing new challenges. 
 <br />
+<br />
 <img src= "https://user-images.githubusercontent.com/130902818/232498646-2cd797ac-6683-4020-b482-762271fe2c04.jpeg" width=40%>
 
 From april 2023 till mid july 2023 I attended a 12 week full time web development bootcamp. During the first 8 weeks we got to know about various different technologies used in modern web development. For each topic we completed several coding challenges.
